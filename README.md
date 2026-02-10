@@ -6,7 +6,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/PriyanshuKSharma?style=social)](https://github.com/PriyanshuKSharma) [![Profile Views](https://komarev.com/ghpvc/?username=PriyanshuKSharma&label=Profile%20Views&color=blue&style=flat)](https://github.com/PriyanshuKSharma)
+[![GitHub followers](https://img.shields.io/github/followers/itspriyanshuks17?style=social)](https://github.com/itspriyanshuks17) [![Profile Views](https://komarev.com/ghpvc/?username=itspriyanshuks17&label=Profile%20Views&color=blue&style=flat)](https://github.com/itspriyanshuks17)
 
 </div>
 
@@ -33,9 +33,9 @@ I embrace a project-based learning approach and have accumulated hands-on experi
   - Conducting performance assessments and data-driven optimizations.
   - Documenting deployment and performance insights for XFBench.
 - **Repositories**:
-  - [Serverless Workbench - XFBench](https://github.com/PriyanshuKSharma/serverless-faas-workbench_IIT_Rpr.git)
-  - [XFaaS Framework](https://github.com/PriyanshuKSharma/XFaaS-IIT_Rpr.git)
-  - [AWS Lambda Addition Module](https://github.com/PriyanshuKSharma/aws-lambda-addition.git)
+  - [Serverless Workbench - XFBench](https://github.com/itspriyanshuks17/serverless-faas-workbench_IIT_Rpr.git)
+  - [XFaaS Framework](https://github.com/itspriyanshuks17/XFaaS-IIT_Rpr.git)
+  - [AWS Lambda Addition Module](https://github.com/itspriyanshuks17/aws-lambda-addition.git)
 
 ### 2. **Quantum Computing and Cloud Storage: Hybrid Cloud-Quantum Systems**
 
@@ -44,7 +44,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 - **Implementation Details**:
   - Establishing **hybrid cloud systems** with quantum applications using **Docker**, **AWS Lambda**, and **IBM Quantum Experience**.
   - Documenting and presenting findings in a research paper titled **"Potential Impact of Quantum Computing on Cloud Storage: Hybrid Cloud-Quantum Systems"**.
-- **GitHub Repository**: [Quantum Cloud Integration](https://github.com/PriyanshuKSharma/quantum-cloud-integration)
+- **GitHub Repository**: [Quantum Cloud Integration](https://github.com/itspriyanshuks17/quantum-cloud-integration)
 
 ### 3. **Identity and Access Management (IAM) - Security Research**
 
@@ -77,7 +77,7 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 
 ### 1. **Linux Practicals**
 
-- **Repository**: [Linux Practicals Repository](https://github.com/PriyanshuKSharma/Linux-Practicals)
+- **Repository**: [Linux Practicals Repository](https://github.com/itspriyanshuks17/Linux-Practicals)
 - **Description**: Hands-on exercises on Linux covering scripting, file management, and system administration basics, created for students and Linux enthusiasts.
 
 ### 2. **Win-KeX for Kali Linux on WSL 2 - Setup Guide**
@@ -214,10 +214,10 @@ I embrace a project-based learning approach and have accumulated hands-on experi
 
 ## 💻 Notable Projects
 
-- 🌩️ [**Media Storage SaaS**](https://github.com/PriyanshuKSharma/media-storage-saas) – A scalable cloud-based storage SaaS.
-- ⚛️ [**Quantum-Cloud Integration**](https://github.com/PriyanshuKSharma/quantum-cloud-integration) – Hybrid Quantum-Cloud system with AWS & IBM Q.
-- ☁️ [**SkyVault**](https://github.com/PriyanshuKSharma/SkyVault) – Personal cloud platform with Docker & interactive frontend.
-- 🌱 [**EcoBizz: Sustainably Yours**](https://github.com/PriyanshuKSharma/EcoBizz-Sustainably-Yours---GDSC-Solution-Challenge-2024) – GDSC 2024 Solution Challenge project for sustainability.
+- 🌩️ [**Media Storage SaaS**](https://github.com/itspriyanshuks17/media-storage-saas) – A scalable cloud-based storage SaaS.
+- ⚛️ [**Quantum-Cloud Integration**](https://github.com/itspriyanshuks17/quantum-cloud-integration) – Hybrid Quantum-Cloud system with AWS & IBM Q.
+- ☁️ [**SkyVault**](https://github.com/itspriyanshuks17/SkyVault) – Personal cloud platform with Docker & interactive frontend.
+- 🌱 [**EcoBizz: Sustainably Yours**](https://github.com/itspriyanshuks17/EcoBizz-Sustainably-Yours---GDSC-Solution-Challenge-2024) – GDSC 2024 Solution Challenge project for sustainability.
 
 ---
 
@@ -363,17 +363,17 @@ timeline
 
 <div align="center">
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuKSharma&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=00ffff&fire=00ffff&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itspriyanshuks17&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=00ffff&fire=00ffff&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKSharma&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00ffff&text_color=C9D1D9&icon_color=00ffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itspriyanshuks17&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00ffff&text_color=C9D1D9&icon_color=00ffff)
 &nbsp;&nbsp;
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuKSharma&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00ffff&text_color=C9D1D9&icon_color=00ffff&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspriyanshuks17&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00ffff&text_color=C9D1D9&icon_color=00ffff&count_private=true&include_all_commits=true)
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuKSharma&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=false&area=true&area_color=161b22)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itspriyanshuks17&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=false&area=true&area_color=161b22)
 
 </div>
 
@@ -392,9 +392,9 @@ timeline
 <p align="center">
   <a href="mailto:priyanshu17ks@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/priyanshu-kumar-sharma-333800251"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://github.com/PriyanshuKSharma"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
-  <a href="https://hub.docker.com/u/priyanshuksharma"><img src="https://img.icons8.com/fluency/48/docker.png"/></a>
-  <a href="https://priyanshuksharma.github.io/portfolio_priyanshuksharma/"><img src="https://img.icons8.com/color/48/domain.png"/></a>
+  <a href="https://github.com/itspriyanshuks17"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
+  <a href="https://hub.docker.com/u/itspriyanshuks17"><img src="https://img.icons8.com/fluency/48/docker.png"/></a>
+  <a href="https://itspriyanshuks17.github.io/portfolio_itspriyanshuks17/"><img src="https://img.icons8.com/color/48/domain.png"/></a>
 </p>
 
 ---
