@@ -393,8 +393,8 @@ timeline
   <a href="mailto:priyanshu17ks@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/priyanshu-kumar-sharma-333800251"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://github.com/itspriyanshuks17"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
-  <a href="https://hub.docker.com/u/itspriyanshuks17"><img src="https://img.icons8.com/fluency/48/docker.png"/></a>
-  <a href="https://itspriyanshuks17.github.io/portfolio_itspriyanshuks17/"><img src="https://img.icons8.com/color/48/domain.png"/></a>
+  <a href="https://hub.docker.com/u/priyanshuksharma"><img src="https://img.icons8.com/fluency/48/docker.png"/></a>
+  <a href="https://PriyanshuKSharma.github.io/portfolio_PriyanshuKSharma/"><img src="https://img.icons8.com/color/48/domain.png"/></a>
 </p>
 
 ---
