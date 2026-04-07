@@ -24,8 +24,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/PriyanshuKSharma"><img src="https://img.shields.io/github/followers/itspriyanshuks17?style=social" alt="GitHub Followers" /></a>
-  <a href="https://komarev.com/ghpvc/?username=itspriyanshuks17&label=Profile%20Views&color=blue&style=flat"><img src="https://komarev.com/ghpvc/?username=PriyanshuKSharma&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/itspriyanshuks17"><img src="https://img.shields.io/github/followers/itspriyanshuks17?style=social" alt="GitHub Followers" /></a>
+  <a href="https://komarev.com/ghpvc/?username=itspriyanshuks17&label=Profile%20Views&color=blue&style=flat"><img src="https://komarev.com/ghpvc/?username=itspriyanshuks17&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></a>
 </p>
 
 > I build secure cloud-native systems, explore multi-cloud orchestration, benchmark serverless platforms, and research how quantum computing can shape the future of infrastructure.
