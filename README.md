@@ -466,16 +466,16 @@ timeline
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuKSharma&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspriyanshuks17&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKSharma&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuKSharma&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspriyanshuks17&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itspriyanshuks17&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuKSharma&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=false&area=true&area_color=161B22" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itspriyanshuks17&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=false&area=true&area_color=161B22" alt="Activity Graph" />
 </p>
 
 ---
