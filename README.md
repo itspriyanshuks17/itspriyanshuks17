@@ -9,17 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_Cloud_Engineering-Active-0EA5E9?style=for-the-badge" alt="Cloud Engineering Active" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%92_Security_Architecture-Focused-1D4ED8?style=for-the-badge" alt="Security Architecture Focused" />
-  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_Systems_Building-Enabled-7C3AED?style=for-the-badge" alt="Systems Building Enabled" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%98_Research_Direction-Quantum-F59E0B?style=for-the-badge" alt="Research Direction Quantum" />
-  <img src="https://img.shields.io/badge/Final%20Year-B.Tech%20IT-111827?style=for-the-badge" alt="Final Year B.Tech IT" />
+  <img src="https://img.shields.io/badge/Building-Nebula-0EA5E9?style=for-the-badge" alt="Building Nebula" />
+  <img src="https://img.shields.io/badge/Research-IIT%20Ropar-1D4ED8?style=for-the-badge" alt="Research at IIT Ropar" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Security%20%7C%20Quantum-7C3AED?style=for-the-badge" alt="Cloud Security Quantum" />
+  <img src="https://img.shields.io/badge/Architecture-Multi--Cloud%20%26%20Serverless-F59E0B?style=for-the-badge" alt="Multi-Cloud and Serverless Architecture" />
   <img src="https://img.shields.io/badge/CGPA-9.9-0F766E?style=for-the-badge" alt="CGPA 9.9" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Security%20%7C%20Research-1D4ED8?style=for-the-badge" alt="Focus Areas" />
-  <img src="https://img.shields.io/badge/Credentials-8-7C3AED?style=for-the-badge" alt="8 Credentials" />
   <img src="https://img.shields.io/badge/Internship%20Experience-1%20yr%2011%20mo-2563EB?style=for-the-badge" alt="Internship Experience 1 year 11 months" />
   <img src="https://img.shields.io/badge/Job%20Experience-Fresher-475569?style=for-the-badge" alt="Job Experience Fresher" />
-  <img src="https://img.shields.io/badge/Open%20Source-Builder-F59E0B?style=for-the-badge" alt="Open Source Builder" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-111827?style=for-the-badge" alt="Open to Collaboration" />
 </p>
 
 
@@ -28,41 +25,85 @@
   <a href="https://komarev.com/ghpvc/?username=itspriyanshuks17&label=Profile%20Views&color=blue&style=flat"><img src="https://komarev.com/ghpvc/?username=itspriyanshuks17&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></a>
 </p>
 
-> I build secure cloud-native systems, explore multi-cloud orchestration, benchmark serverless platforms, and research how quantum computing can shape the future of infrastructure.
-
-> I enjoy working on problems where architecture, security, and experimentation overlap, especially when the result is a system that is both practical today and future-facing tomorrow.
+<p align="center">
+  <em>Cloud architecture, security thinking, and research-backed building for systems that are meant to be used, not just described.</em>
+</p>
 
 ---
 
-## Engineering in Four Directions
+## Mission Control
 
-| Area                     | What I Do                                                                                                              |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| **Cloud Systems**        | Design scalable systems across AWS, Azure, and GCP with a strong interest in serverless and multi-cloud orchestration. |
-| **Security Engineering** | Study IAM, AAA, Zero Trust, and secure access models for modern distributed environments.                              |
-| **Research Thinking**    | Approach projects with benchmarking, experimentation, and architecture-level reasoning.                                |
-| **Builder Mindset**      | Turn ideas into working repositories, guides, prototypes, and systems people can actually use.                         |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Builder Mode</strong><br /><br />
+      I like projects where architecture, security, and experimentation all matter at once.<br /><br />
+      • Turning ideas into working systems, not just concept notes<br />
+      • Treating security as a design choice, not a late add-on<br />
+      • Shipping reproducible setups, docs, and developer-friendly workflows<br />
+      • Building products with a strong architecture story behind them
+
+  </td>
+    <td width="50%" valign="top">
+      <strong>Research Mode</strong><br /><br />
+      The problems that keep me curious usually sit right at the edge of infrastructure.<br /><br />
+      • Multi-cloud orchestration and unified control planes<br />
+      • Serverless benchmarking and cloud performance analysis<br />
+      • IAM, AAA, Zero Trust, and distributed access models<br />
+      • Hybrid quantum-cloud systems and future-facing infrastructure
+
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## Snapshot
 
 - Final-year **B.Tech Information Technology** student specializing in **Cloud Technology and Information Security**.
-- Research experience at **IIT Ropar** under the **Indian Academy of Sciences Summer Research Fellowship Program (2024)**.
-- Hands-on with **AWS, Azure, GCP, Docker, Kubernetes, Terraform, Linux, IAM, and Zero Trust concepts**.
-- Exploring the intersection of **serverless systems, cybersecurity, cloud architecture, and hybrid quantum-cloud computing**.
-- Built a growing stack of **8 certifications and credentials** spanning cybersecurity, cloud, AI, SQL, and developer learning.
-- Open-source contributor who enjoys building developer-first tools, educational resources, and infrastructure-focused projects.
+- Research intern at **IIT Ropar** through the **Indian Academy of Sciences Summer Research Fellowship Program (2024)**.
+- Comfortable across **AWS, Azure, GCP, Docker, Kubernetes, Terraform, Linux, IAM, and Zero Trust** concepts.
+- Most interested in the overlap between **cloud systems, security architecture, serverless platforms, and quantum-inspired infrastructure research**.
+- Built a growing stack of **certifications, internships, and project work** across cybersecurity, cloud, AI, SQL, and developer tooling.
+- I enjoy building repositories that are practical, well-documented, and strong enough to double as learning resources.
+
+---
+
+## Core Themes
+
+| Theme                    | How It Shows Up In My Work                                                                                  |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| **Cloud Systems**        | Multi-cloud orchestration, serverless workflows, infra experimentation, and architecture-heavy builds.     |
+| **Security Engineering** | IAM, Zero Trust, access-control models, network security thinking, and secure system design.               |
+| **Research Thinking**    | Benchmarking, experimentation, performance reasoning, and documenting ideas with engineering depth.         |
+| **Builder Mindset**      | Turning concepts into repositories, guides, demos, and usable systems that other developers can learn from. |
 
 ---
 
 ## Current Radar
 
-| Now Building                                              | Now Researching                                              | Long-Term Direction                                              |
-| --------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------- |
-| **Nebula**, an API-first multi-cloud command center       | **Hybrid quantum-cloud systems** for security and efficiency | Becoming a cloud architect and security-focused systems engineer |
-| Serverless benchmarking workflows and infra experiments   | Secure identity and access models in distributed systems     | Publishing research-backed engineering work                      |
-| Portfolio-grade products with strong architecture stories | Practical cloud performance optimization                     | Building resilient platforms that scale cleanly                  |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Now Building</strong><br /><br />
+      Nebula, an API-first multi-cloud command center<br />
+      Serverless benchmarking workflows and infra experiments<br />
+      Portfolio-grade products with strong architecture stories
+    </td>
+    <td width="33%" valign="top">
+      <strong>Now Researching</strong><br /><br />
+      Hybrid quantum-cloud systems for security and efficiency<br />
+      Secure identity and access models in distributed systems<br />
+      Practical performance optimization for cloud workloads
+    </td>
+    <td width="33%" valign="top">
+      <strong>Long-Term Direction</strong><br /><br />
+      Becoming a cloud architect with a security-first mindset<br />
+      Publishing research-backed engineering work<br />
+      Designing resilient platforms that scale cleanly
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -122,6 +163,28 @@ Security is one of the foundations of my work, especially the challenge of givin
 
 ---
 
+## Featured Repository Deck
+
+<p align="center">
+  <a href="https://github.com/PriyanshuKSharma/multi-cloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=multi-cloud&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="Nebula repository card" />
+  </a>
+  <a href="https://github.com/PriyanshuKSharma/quantum-cloud-integration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=quantum-cloud-integration&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="Quantum Cloud Integration repository card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PriyanshuKSharma/rural-gyan-paltform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=rural-gyan-paltform&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="Rural Gyan repository card" />
+  </a>
+  <a href="https://github.com/PriyanshuKSharma/xai_explainaibility">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshuKSharma&repo=xai_explainaibility&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="XAI Interpret repository card" />
+  </a>
+</p>
+
+---
+
 ## Experience Highlights
 
 ```mermaid
@@ -173,79 +236,97 @@ timeline
 
 **Languages**
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="96" height="96" title="Java" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="96" height="96" title="Python" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="96" height="96" title="JavaScript" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="96" height="96" title="Dart" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="96" height="96" title="Bash" alt="Bash" />
-</p>
-
-<p align="center"><sub>Java • Python • JavaScript • Dart • Bash</sub></p>
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" title="Java" alt="Java" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" title="Python" alt="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" title="JavaScript" alt="JavaScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="64" height="64" title="Dart" alt="Dart" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="64" height="64" title="Bash" alt="Bash" /></td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center"><sub>Java • Python • JavaScript • Dart • Bash</sub></td>
+  </tr>
+</table>
 
 **Web and App Development**
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="96" height="96" title="HTML5" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="96" height="96" title="CSS3" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="96" height="96" title="React" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="96" height="96" title="Django" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="96" height="96" title="Flutter" alt="Flutter" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="96" height="96" title="Tailwind CSS" alt="Tailwind CSS" />
-</p>
-
-<p align="center"><sub>HTML5 • CSS3 • React • Django • Flutter • Tailwind CSS</sub></p>
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" title="HTML5" alt="HTML5" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" title="CSS3" alt="CSS3" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" title="React" alt="React" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="64" height="64" title="Django" alt="Django" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="64" height="64" title="Flutter" alt="Flutter" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" title="Tailwind CSS" alt="Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><sub>HTML5 • CSS3 • React • Django • Flutter • Tailwind CSS</sub></td>
+  </tr>
+</table>
 
 **Cloud, Serverless, and Infrastructure**
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/amazon-web-services.png" width="96" height="96" title="AWS" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="96" height="96" title="Microsoft Azure" alt="Microsoft Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="96" height="96" title="Google Cloud Platform" alt="Google Cloud Platform" />
-  <img src="https://www.awsicon.com/static/images/Service-Icons/Compute/64/svg/Lambda.svg" width="96" height="96" title="AWS Lambda" alt="AWS Lambda" />
-  <img src="https://avatars.githubusercontent.com/u/33404658?s=200&v=4" width="96" height="96" title="OpenFaaS" alt="OpenFaaS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="96" height="96" title="Cloudflare" alt="Cloudflare" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="96" height="96" title="Terraform" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" width="96" height="96" title="Pulumi" alt="Pulumi" />
-</p>
-
-<p align="center"><sub>AWS • Azure • GCP • AWS Lambda • OpenFaaS • Cloudflare • Terraform • Pulumi</sub></p>
+<table align="center">
+  <tr>
+    <td><img src="https://img.icons8.com/color/96/amazon-web-services.png" width="64" height="64" title="AWS" alt="AWS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="64" height="64" title="Microsoft Azure" alt="Microsoft Azure" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="64" height="64" title="Google Cloud Platform" alt="Google Cloud Platform" /></td>
+    <td><img src="https://www.awsicon.com/static/images/Service-Icons/Compute/64/svg/Lambda.svg" width="64" height="64" title="AWS Lambda" alt="AWS Lambda" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/33404658?s=200&v=4" width="64" height="64" title="OpenFaaS" alt="OpenFaaS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="64" height="64" title="Cloudflare" alt="Cloudflare" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="64" height="64" title="Terraform" alt="Terraform" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" width="64" height="64" title="Pulumi" alt="Pulumi" /></td>
+  </tr>
+  <tr>
+    <td colspan="8" align="center"><sub>AWS • Azure • GCP • AWS Lambda • OpenFaaS • Cloudflare • Terraform • Pulumi</sub></td>
+  </tr>
+</table>
 
 **Security and Systems**
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/security-checked.png" width="96" height="96" title="IAM" alt="IAM" />
-  <img src="https://img.icons8.com/color/96/privacy.png" width="96" height="96" title="Zero Trust" alt="Zero Trust" />
-  <img src="https://img.icons8.com/color/96/firewall.png" width="96" height="96" title="Network Security" alt="Network Security" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="96" height="96" title="Linux" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="96" height="96" title="Docker" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="96" height="96" title="Kubernetes" alt="Kubernetes" />
-  <img src="https://img.icons8.com/color/96/nmap.png" width="96" height="96" title="Nmap" alt="Nmap" />
-</p>
-
-<p align="center"><sub>IAM • Zero Trust • Network Security • Linux • Docker • Kubernetes • Nmap</sub></p>
+<table align="center">
+  <tr>
+    <td><img src="https://img.icons8.com/color/96/security-checked.png" width="64" height="64" title="IAM" alt="IAM" /></td>
+    <td><img src="https://img.icons8.com/color/96/privacy.png" width="64" height="64" title="Zero Trust" alt="Zero Trust" /></td>
+    <td><img src="https://img.icons8.com/color/96/firewall.png" width="64" height="64" title="Network Security" alt="Network Security" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64" title="Linux" alt="Linux" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" title="Docker" alt="Docker" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64" height="64" title="Kubernetes" alt="Kubernetes" /></td>
+    <td><img src="https://img.icons8.com/color/96/nmap.png" width="64" height="64" title="Nmap" alt="Nmap" /></td>
+  </tr>
+  <tr>
+    <td colspan="7" align="center"><sub>IAM • Zero Trust • Network Security • Linux • Docker • Kubernetes • Nmap</sub></td>
+  </tr>
+</table>
 
 **Data, DevOps, and Storage**
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="96" height="96" title="Redis" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="96" height="96" title="MySQL" alt="MySQL" />
-  <img src="https://img.icons8.com/color/96/amazon-s3.png" width="96" height="96" title="Amazon S3" alt="Amazon S3" />
-  <img src="https://img.icons8.com/ios-glyphs/90/FFFFFF/github.png" width="96" height="96" title="GitHub" alt="GitHub" />
-  <img src="https://img.icons8.com/color/96/gitlab.png" width="96" height="96" title="GitLab" alt="GitLab" />
-  <img src="https://neon.com/brand/neon-logomark-light-color.svg?dpl=dpl_GfEvs43Fxt4MNm2V4NnNfkh4yvph" width="96" height="96" title="Neon DB" alt="Neon DB" />
-</p>
-
-<p align="center"><sub>Redis • MySQL • Amazon S3 • GitHub • GitLab • Neon</sub></p>
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="64" height="64" title="Redis" alt="Redis" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" title="MySQL" alt="MySQL" /></td>
+    <td><img src="https://img.icons8.com/color/96/amazon-s3.png" width="64" height="64" title="Amazon S3" alt="Amazon S3" /></td>
+    <td><img src="https://img.icons8.com/ios-glyphs/90/FFFFFF/github.png" width="64" height="64" title="GitHub" alt="GitHub" /></td>
+    <td><img src="https://img.icons8.com/color/96/gitlab.png" width="64" height="64" title="GitLab" alt="GitLab" /></td>
+    <td><img src="https://neon.com/brand/neon-logomark-light-color.svg?dpl=dpl_GfEvs43Fxt4MNm2V4NnNfkh4yvph" width="64" height="64" title="Neon DB" alt="Neon DB" /></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><sub>Redis • MySQL • Amazon S3 • GitHub • GitLab • Neon</sub></td>
+  </tr>
+</table>
 
 **Exploring Next**
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/ibm.png" width="110" height="96" title="IBM Quantum" alt="IBM Quantum" />
-  <img src="https://img.icons8.com/color/96/amazon-web-services.png" width="110" height="96" title="AWS Braket" alt="AWS Braket" />
-</p>
-
-<p align="center"><sub>IBM Quantum • AWS Braket</sub></p>
+<table align="center">
+  <tr>
+    <td><img src="https://img.icons8.com/color/96/ibm.png" width="110" height="96" title="IBM Quantum" alt="IBM Quantum" /></td>
+    <td><img src="https://img.icons8.com/color/96/amazon-web-services.png" width="110" height="96" title="AWS Braket" alt="AWS Braket" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub>IBM Quantum • AWS Braket</sub></td>
+  </tr>
+</table>
 
 ```mermaid
 flowchart TD
@@ -411,9 +492,9 @@ timeline
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:priyanshu17ks.edu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:priyanshu17ks@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/priyanshu-kumar-sharma-333800251"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/itspriyanshuks17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/PriyanshuKSharma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://hub.docker.com/u/priyanshuksharma"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
   <a href="https://priyanshuksharma.github.io/portfolio_priyanshuksharma/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
